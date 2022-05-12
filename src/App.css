@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url('/src/images/background-stars.svg');
+  min-height: 100vh;
 }
 
 .App-logo {

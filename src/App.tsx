@@ -3,7 +3,7 @@ import './App.css';
 
 const App: React.FC = () => (
   <div className="App">
-    <header className="App-header">
+    {/* <header className="App-header">
       <p>
         Edit
         <code>src/App.tsx</code>
@@ -17,7 +17,8 @@ const App: React.FC = () => (
       >
         Learn React
       </a>
-    </header>
+    </header> */}
+    test
   </div>
 );
 
