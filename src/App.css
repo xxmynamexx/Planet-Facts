@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  background-image: url('/src/images/background-stars.svg');
+  background: #070724 url('/src/images/background-stars.svg') repeat top center;
+  z-index: 0;
   min-height: 100vh;
 }
 
