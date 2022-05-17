@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-const App: React.FC = () => (
+export const App: React.FC = () => (
   <div className="App">
     {/* <header className="App-header">
       <p>
@@ -21,5 +21,3 @@ const App: React.FC = () => (
     test
   </div>
 );
-
-export default App;
